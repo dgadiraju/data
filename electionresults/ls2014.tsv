@@ -1,4 +1,4 @@
-state	constituency	candidate_name	sex	age	category	partyname	partysymbole	general	postal	total	pct_of_total_votes	pct_of_polled_votes	totalvoters
+sstate	constituency	candidate_name	sex	age	category	partyname	partysymbol	general	postal	total	pct_of_total_votes	pct_of_polled_votes	totalvoters
 Andhra Pradesh	Adilabad 	GODAM NAGESH	M	49	ST	TRS	Car	425762	5085	430847	31.07931864	40.81807244	1386282
 Andhra Pradesh	Adilabad 	NARESH	M	37	ST	INC	Hand	257994	1563	259557	18.72324679	24.59020587	1386282
 Andhra Pradesh	Adilabad 	RAMESH RATHOD	M	48	ST	TDP	Bicycle	182879	1319	184198	13.28719553	17.45075933	1386282
