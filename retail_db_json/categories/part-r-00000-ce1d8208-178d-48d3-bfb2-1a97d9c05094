@@ -1,0 +1,58 @@
+{"category_id":1,"category_department_id":2,"category_name":"Football"}
+{"category_id":2,"category_department_id":2,"category_name":"Soccer"}
+{"category_id":3,"category_department_id":2,"category_name":"Baseball & Softball"}
+{"category_id":4,"category_department_id":2,"category_name":"Basketball"}
+{"category_id":5,"category_department_id":2,"category_name":"Lacrosse"}
+{"category_id":6,"category_department_id":2,"category_name":"Tennis & Racquet"}
+{"category_id":7,"category_department_id":2,"category_name":"Hockey"}
+{"category_id":8,"category_department_id":2,"category_name":"More Sports"}
+{"category_id":9,"category_department_id":3,"category_name":"Cardio Equipment"}
+{"category_id":10,"category_department_id":3,"category_name":"Strength Training"}
+{"category_id":11,"category_department_id":3,"category_name":"Fitness Accessories"}
+{"category_id":12,"category_department_id":3,"category_name":"Boxing & MMA"}
+{"category_id":13,"category_department_id":3,"category_name":"Electronics"}
+{"category_id":14,"category_department_id":3,"category_name":"Yoga & Pilates"}
+{"category_id":15,"category_department_id":3,"category_name":"Training by Sport"}
+{"category_id":16,"category_department_id":3,"category_name":"As Seen on  TV!"}
+{"category_id":17,"category_department_id":4,"category_name":"Cleats"}
+{"category_id":18,"category_department_id":4,"category_name":"Men's Footwear"}
+{"category_id":19,"category_department_id":4,"category_name":"Women's Footwear"}
+{"category_id":20,"category_department_id":4,"category_name":"Kids' Footwear"}
+{"category_id":21,"category_department_id":4,"category_name":"Featured Shops"}
+{"category_id":22,"category_department_id":4,"category_name":"Accessories"}
+{"category_id":23,"category_department_id":5,"category_name":"Men's Apparel"}
+{"category_id":24,"category_department_id":5,"category_name":"Women's Apparel"}
+{"category_id":25,"category_department_id":5,"category_name":"Boys' Apparel"}
+{"category_id":26,"category_department_id":5,"category_name":"Girls' Apparel"}
+{"category_id":27,"category_department_id":5,"category_name":"Accessories"}
+{"category_id":28,"category_department_id":5,"category_name":"Top Brands"}
+{"category_id":29,"category_department_id":5,"category_name":"Shop By Sport"}
+{"category_id":30,"category_department_id":6,"category_name":"Men's Golf Clubs"}
+{"category_id":31,"category_department_id":6,"category_name":"Women's Golf Clubs"}
+{"category_id":32,"category_department_id":6,"category_name":"Golf Apparel"}
+{"category_id":33,"category_department_id":6,"category_name":"Golf Shoes"}
+{"category_id":34,"category_department_id":6,"category_name":"Golf Bags & Carts"}
+{"category_id":35,"category_department_id":6,"category_name":"Golf Gloves"}
+{"category_id":36,"category_department_id":6,"category_name":"Golf Balls"}
+{"category_id":37,"category_department_id":6,"category_name":"Electronics"}
+{"category_id":38,"category_department_id":6,"category_name":"Kids' Golf Clubs"}
+{"category_id":39,"category_department_id":6,"category_name":"Team Shop"}
+{"category_id":40,"category_department_id":6,"category_name":"Accessories"}
+{"category_id":41,"category_department_id":6,"category_name":"Trade-In"}
+{"category_id":42,"category_department_id":7,"category_name":"Bike & Skate Shop"}
+{"category_id":43,"category_department_id":7,"category_name":"Camping & Hiking"}
+{"category_id":44,"category_department_id":7,"category_name":"Hunting & Shooting"}
+{"category_id":45,"category_department_id":7,"category_name":"Fishing"}
+{"category_id":46,"category_department_id":7,"category_name":"Indoor/Outdoor Games"}
+{"category_id":47,"category_department_id":7,"category_name":"Boating"}
+{"category_id":48,"category_department_id":7,"category_name":"Water Sports"}
+{"category_id":49,"category_department_id":8,"category_name":"MLB"}
+{"category_id":50,"category_department_id":8,"category_name":"NFL"}
+{"category_id":51,"category_department_id":8,"category_name":"NHL"}
+{"category_id":52,"category_department_id":8,"category_name":"NBA"}
+{"category_id":53,"category_department_id":8,"category_name":"NCAA"}
+{"category_id":54,"category_department_id":8,"category_name":"MLS"}
+{"category_id":55,"category_department_id":8,"category_name":"International Soccer"}
+{"category_id":56,"category_department_id":8,"category_name":"World Cup Shop"}
+{"category_id":57,"category_department_id":8,"category_name":"MLB Players"}
+{"category_id":58,"category_department_id":8,"category_name":"NFL Players"}
